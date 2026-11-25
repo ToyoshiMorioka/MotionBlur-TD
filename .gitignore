@@ -1,0 +1,13 @@
+# 手元の作業用（公開しない）
+_旧版/
+Backup/
+.claude/
+.tdmcp/
+設計.md
+MB_開発*.toe
+
+# TouchDesigner が保存のたびに作る番号付きの .toe
+*.[0-9].toe
+*.[0-9][0-9].toe
+
+.DS_Store
